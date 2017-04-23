@@ -5,6 +5,7 @@ body{font-size:14px;font-family:'Source Sans Pro', sans-serif;-webkit-font-smoot
 p{color:#858585;line-height:22px;}
 .white{background:#fff;}
 .pDark p{color:#6D6D6D;}
+.banner{width: 100%; height: 400px;}
 .pDark h3{color:#BEBEBE;}
 .btn, .form-control, .team-socials i{border-radius:5px !important;}
 .button-outline{-webkit-font-smoothing:antialiased;display:inline-block;vertical-align:middle;zoom:1;color:#fff;padding:10px 25px;border:2px solid #fff;border-radius:0px;font-size:16px;font-weight:400;background:rgba(255,255,255,0.15);}
